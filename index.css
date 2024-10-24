@@ -36,6 +36,7 @@ button {
     display: flex;
     text-align: center;
     background-color: #373162;
+    color: #ffffff !important;
     width: 39vw;
     height: 14vh;
     font-size: 6.25vh;
