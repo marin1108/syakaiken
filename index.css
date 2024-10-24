@@ -8,13 +8,13 @@ h2 {
 }
 
 .header_top {
-    background-color: #ffffff;
+    background-color: #ffffff !important;
     color: #373162;
     font-size: 64px;
 }
 
 .footer_top {
-    background-color: #373162;
+    background-color: #373162 !important;
     color: #ffffff;
 }
 
