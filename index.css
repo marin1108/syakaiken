@@ -5,6 +5,15 @@ body {
 
 h2 {
     color: #373162;
+    font-size: 9vh;
+}
+
+h3 {
+    font-size: 9vh;
+}
+
+p {
+    font-size: 7vh;
 }
 
 .header_top {
@@ -36,7 +45,6 @@ button {
     display: flex;
     text-align: center;
     background-color: #373162;
-    color: #ffffff !important;
     width: 39vw;
     height: 14vh;
     font-size: 6.25vh;
@@ -50,7 +58,12 @@ button:hover {
 
 a {
     text-decoration: none;
-    color: #373162;
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #373162 !important;
 }
 
 .hamburger-menu {
