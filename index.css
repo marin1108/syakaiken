@@ -66,6 +66,10 @@ a:hover {
     color: #373162 !important;
 }
 
+a:visited {
+    color: #ffffff;
+}
+
 .hamburger-menu {
     display: flex;
     width: 30px;
